@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA568846-E108-4FD0-B3C0-6EFA98753B54}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|\\\\mac\\home\\desktop\\c#\\second sem\\projects\\tic-tac-toe\\tic-tac-toe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA568846-E108-4FD0-B3C0-6EFA98753B54}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|\\\\mac\\home\\desktop\\c#\\second sem\\projects\\tic-tac-toe\\tic-tac-toe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA568846-E108-4FD0-B3C0-6EFA98753B54}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|\\\\mac\\home\\desktop\\c#\\second sem\\projects\\tic-tac-toe\\tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA568846-E108-4FD0-B3C0-6EFA98753B54}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|\\\\mac\\home\\desktop\\c#\\second sem\\projects\\tic-tac-toe\\tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA568846-E108-4FD0-B3C0-6EFA98753B54}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|\\\\mac\\home\\desktop\\c#\\second sem\\projects\\tic-tac-toe\\tic-tac-toe\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA568846-E108-4FD0-B3C0-6EFA98753B54}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|\\\\mac\\home\\desktop\\c#\\second sem\\projects\\tic-tac-toe\\tic-tac-toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 390,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Program.cs",
+              "RelativeDocumentMoniker": "Tic-Tac-Toe\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Program.cs",
+              "RelativeToolTip": "Tic-Tac-Toe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:53:39.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form2.cs",
+              "RelativeDocumentMoniker": "Tic-Tac-Toe\\Form2.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form2.cs",
+              "RelativeToolTip": "Tic-Tac-Toe\\Form2.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:49:39.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form2.cs",
+              "RelativeDocumentMoniker": "Tic-Tac-Toe\\Form2.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form2.cs [Design]",
+              "RelativeToolTip": "Tic-Tac-Toe\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:47:44.574Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form1.cs",
+              "RelativeDocumentMoniker": "Tic-Tac-Toe\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form1.cs",
+              "RelativeToolTip": "Tic-Tac-Toe\\Form1.cs",
+              "ViewState": "AQIAAF4AAAAAAQAAAIAuwGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:16:30.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form1.cs",
+              "RelativeDocumentMoniker": "Tic-Tac-Toe\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form1.cs [Design]",
+              "RelativeToolTip": "Tic-Tac-Toe\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:12:36.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Variables.cs",
+              "RelativeDocumentMoniker": "Tic-Tac-Toe\\Variables.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\C#\\Second sem\\Projects\\Tic-Tac-Toe\\Tic-Tac-Toe\\Variables.cs",
+              "RelativeToolTip": "Tic-Tac-Toe\\Variables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:59:35.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
